@@ -1,0 +1,6 @@
+{
+  "name": "NightSky-Journal",
+  "description": "A retro-futuristic spaceship computer console for client-side sky observation logging and planet tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
